@@ -1,9 +1,9 @@
 Alimker
-add words
+add words new
 new line
 hello
 ok
 you
-live
+live new
 love
 like
